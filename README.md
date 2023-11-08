@@ -4,8 +4,8 @@
 
 ## Setup
 ### System Requirements:
-[Node.js 18.17](https://nodejs.org/en "Node") or later.
-macOS, Windows (including WSL), and Linux are supported.
+- [Node.js 18.17](https://nodejs.org/en "Node") or later.
+- macOS, Windows (including WSL), and Linux are supported.
 
 ### Automatic Installation
 Clone the repository:
