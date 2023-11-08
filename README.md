@@ -20,7 +20,7 @@ Install dependencies:
 Start pocketbase database:
 `./pocketbase serve`
 
-Now open a new termainal instance in the **contract-management-app** repo to allow the pocketbase database to run in parrel to NextJS:
+Now open a new termainal instance in the **contract-management-app** repo to allow the pocketbase database to run in parallel to NextJS:
 `npm run dev`
 
 🎉 You are now hosting the site 🎉
